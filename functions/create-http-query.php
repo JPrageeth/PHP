@@ -1,3 +1,4 @@
+<?php
 /* Prageeth Sudarshana | Tokyo */
 
 /*
@@ -27,3 +28,5 @@ function HTTP_QUERY($array, $unset) {
 	}
 
 }
+
+?>
