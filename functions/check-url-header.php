@@ -33,4 +33,9 @@
       }  
   }
 
+  //Test
+  check_url_header('https://google.com');
+  //OUT
+  //200
+
 ?>
